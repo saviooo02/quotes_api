@@ -1,3 +1,10 @@
 *{
     background-color: beige;
+    color: black;
+}
+
+.quote{
+    color: brown;
+    font-size: 2rem;
+    padding: 10px;
 }
